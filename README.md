@@ -27,3 +27,25 @@ Deloitte Australia - Data Analytics Job Simulation
 1. **Install Tableau Public or Tableau Desktop**
 2. **Download the free trial or public version from** : https://www.tableau.com/products/trial
 3. **Data Import:** Import the provided `JSON` telemetry data files into Tableau to start visualizing the data.
+
+
+# Task 2 - Forensic Technology
+**Gender Pay Equality at Daikibo Industrials**
+## Project Overview
+To address gender pay inequality concerns at `Daikibo`, we developed an **Equality Score** ranging from `-100 to +100` to measure gender pay equality across the company.**
+
+## Key Actions
+A new column was added to the `dataset` to classify scores into 3 categories:
+1. **Fair (±10):** Balanced pay
+2. **Unfair (-10 < score < 10):** Some inequality
+3. **Highly Discriminative (-20 < score < 20):** Significant inequality
+
+## Tool Used
+**Microsoft Excel:** 
+- Used for `data handling`, `calculating the Equality Score`, and `classifying the data` using formulas.
+- Excel also enabled efficient `data visualization` and `analysis with charts` and conditional formatting.
+## Impact
+- **Efficient Classification:** Quickly identified areas of concern.
+- **Actionable Insights:** Highlighted roles and locations needing action.
+- **Real-World Change:** Contributed to Daikibo’s efforts for fair compensation and equity.
+
