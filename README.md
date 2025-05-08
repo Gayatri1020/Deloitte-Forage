@@ -6,18 +6,18 @@ Deloitte Australia - Data Analytics Job Simulation
 **"This project leverages Tableau for data analysis and visualization to track downtime across Daikibo’s four international manufacturing sites. By integrating telemetry data and creating insightful visualizations, this solution helps identify operational bottlenecks and informs maintenance strategies."**
 
 ## Feature / Project highlight
-- **Data Integration:** Integration of `JSON` telemetry data from Daikibo’s factories in `Tokyo`, `Osaka`, `Berlin`, and `Shenzhen`.
+1. **Data Integration:** Integration of `JSON` telemetry data from Daikibo’s factories in `Tokyo`, `Osaka`, `Berlin`, and `Shenzhen`.
 - Daikibo Factory Meiyo (Tokyo, Japan)
 - Daikibo Factory Seiko (Osaka, Japan)
 - Daikibo Berlin (Berlin, Germany)
 - Daikibo Shenzhen (Shenzhen, China)
-- **Downtime Calculation:** Custom calculated field to track downtime, with 10 minutes per ‘`Unhealthy`’ machine status message.
-- **Data Visualization:** 
+2. **Downtime Calculation:** Custom calculated field to track downtime, with 10 minutes per ‘`Unhealthy`’ machine status message.
+3. **Data Visualization:** 
    Built insightful **bar charts** to highlight:
 - Downtime per Factory
 - Downtime per Device Type
-- **Interactive Dashboard:** Dynamic dashboard with filtering capabilities for easy root cause analysis.
-- **Key Insight:** Identified factory with the highest downtime, revealing critical operational issues.
+4. **Interactive Dashboard:** Dynamic dashboard with filtering capabilities for easy root cause analysis.
+5. **Key Insight:** Identified factory with the highest downtime, revealing critical operational issues.
   
 ## Tools Used
 - **Tableau:** Primary tool used for data visualization and dashboard creation.
