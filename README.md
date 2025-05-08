@@ -9,11 +9,11 @@ Deloitte Australia - Data Analytics Job Simulation
 - Daikibo Shenzhen (Shenzhen, China)
 # Project Highlights
 - **Data Integration:**
-Imported and processed JSON telemetry data collected from Daikibo’s 4 international factories (Tokyo, Osaka, Berlin, Shenzhen).
+Imported and processed `JSON` telemetry data collected from Daikibo’s 4 international factories (`Tokyo`, `Osaka`, `Berlin`,`Shenzhen`).
 - **Downtime Calculation:**
-Created a custom calculated field in Tableau assigning 10 minutes of downtime per ‘Unhealthy’ machine status message.
+Created a custom calculated field in Tableau assigning 10 minutes of downtime per ‘`Unhealthy`’ machine status message.
 - **Data Visualization:**
-## Built insightful bar charts to highlight:
+- **Built insightful bar charts to highlight:**
 - Downtime per Factory
 - Downtime per Device Type
 - **Interactive Dashboard:**
